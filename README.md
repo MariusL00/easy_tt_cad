@@ -91,8 +91,8 @@ sudo npm install -g netlistsvg
 Récupérez ensuite le projet et lancez-le :
 
 ```bash
-git clone https://github.com/MariusL00/easy-tt-cad.git
-cd easy-tt-cad
+git clone https://github.com/MariusL00/easy_tt_cad.git
+cd easy_tt_cad
 python3 easy_tt_cad.py
 ```
 
